@@ -1,0 +1,11 @@
+
+
+.home{
+    display:flex;
+    align-items: center;
+    /* margin-bottom: 2px;
+    color: red; */
+}
+.NAVIGATION{
+    font-size: 12px;
+}
